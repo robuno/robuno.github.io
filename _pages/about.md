@@ -12,10 +12,12 @@ I am senior Computer Engineering student at Kadir Has University. I am highly in
 
 Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com.tr/en). You can check my [CV](https://robuno.github.io/cv/) to view more detailed working&research experince. Feel free to contact me via mail or any social media channel!
 
+_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
+
 News
 ======
 
-* **<ins>June 2022,</ins>**  I’m starting as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
+* **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
 * **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at Aselsan!
 
