@@ -1,7 +1,7 @@
 ---
 title: 'Academics Blog Content Management System 2'
 date: 2023-01-01
-permalink: /projects/academics-cms
+permalink: /projects/academics-cms-2/
 tags:
   - php
   - javascript
