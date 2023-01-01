@@ -1,5 +1,5 @@
 ---
-title: 'Academics Blog Content Management System'
+title: 'Academics Blog Content Management System 2'
 date: 2023-01-01
 permalink: /projects/academics-cms
 tags:
