@@ -1,7 +1,7 @@
 ---
 title: "Academics Blog Content Management System"
 collection: projects
-permalink: /project/academics-cms
+permalink: /projects/academics-cms
 excerpt: 'xxxxxxxxxxxxxxxxxxxxxxxx.'
 date: 2023-01-01
 venue: 'Journal 1'
