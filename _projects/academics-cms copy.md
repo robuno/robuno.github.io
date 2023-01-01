@@ -1,7 +1,7 @@
 ---
 title: 'Academics Blog Content Management System 2'
 date: 2023-01-01
-permalink: /projects/academics-cms-2/
+permalink: https://github.com/robuno/academics-blog-cms
 tags:
   - php
   - javascript
