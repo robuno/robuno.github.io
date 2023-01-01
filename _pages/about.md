@@ -15,8 +15,8 @@ Apart from my work on artificial intelligence, I also develop projects on web te
 News
 ======
 
-* **<ins>June 2022, </ins>** I’m starting as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
+* **<ins>June 2022,</ins>**  I’m starting as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
-* **<ins>June 2022, </ins>** I’m starting a new position as Software Engineering Intern at Aselsan!
+* **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at Aselsan!
 
-* **<ins>December 2021, </ins>** I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
+* **<ins>December 2021,</ins>**  I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
