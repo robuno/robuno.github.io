@@ -1,5 +1,5 @@
 ---
-title: 'Academics Blog Content Management System'
+title: 'Instagram Follower & Following List Scraper'
 date: 2023-01-01
 permalink: https://github.com/robuno/instagram-follower-following-scraper
 tags:
