@@ -1,5 +1,5 @@
 ---
-title: 'Academics Blog Content Management System 2'
+title: 'Academics Blog Content Management System'
 date: 2023-01-01
 permalink: https://github.com/robuno/academics-blog-cms
 tags:
