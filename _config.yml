@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Unat Tekşen"
   avatar           : "uno_profile.jpg"
-  bio              : "Senior Computer Engineering Student & Undergraduate Researcher @Koç University"
+  bio              : "Senior Computer Engineering Student @Kadir Has University & Undergraduate Researcher @Koç University"
   location         : "Istanbul, Turkey"
   employer         : 
   pubmed           : 
@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
