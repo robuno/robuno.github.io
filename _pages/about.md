@@ -10,15 +10,15 @@ redirect_from:
 
 I am senior Computer Engineering student at Kadir Has University. I am highly interested in machine learning & deep learning and computer vision. Currently, I working as an undergraduate researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
 
-Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com.tr/en). You can check my [CV](https://robuno.github.io/cv/) to view more detailed working&research experince. Feel free to contact me via mail or any social media channel! :zap:
+Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com.tr/en). You can check my [CV](https://robuno.github.io/cv/) to view more detailed working&research experince. Feel free to contact me via mail or any social media channel! :heavy_exclamation_mark:
 
 _<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
 
 News
 ======
 
-* **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
+* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
-* **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at Aselsan!
+* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at Aselsan!
 
-* **<ins>December 2021,</ins>**  I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
+* :tada: **<ins>December 2021,</ins>**  I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
