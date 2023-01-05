@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am senior Computer Engineering student at Kadir Has University. I am highly interested in machine learning & deep learning and computer vision. Currently, I working as an undergraduate researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
+I am senior Computer Engineering student at Kadir Has University. I am highly interested in machine learning & deep learning and computer vision. Currently, I am working as an undergraduate researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
 
 Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com.tr/en). You can check my [CV](https://robuno.github.io/cv/) to view more detailed working&research experince. Feel free to contact me via mail or any social media channel! 
 
