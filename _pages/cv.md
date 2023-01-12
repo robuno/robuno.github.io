@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /../files/unat_academics_cv1_Colored(2).pdf
 author_profile: true
 redirect_from:
   - /resume
