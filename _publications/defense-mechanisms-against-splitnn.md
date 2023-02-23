@@ -11,4 +11,9 @@ citation: 'Erdogan, Ege, vd. Defense Mechanisms Against Training-Hijacking Attac
 
 This research is under review for a journal.
 
-[Download paper here](https://arxiv.org/abs/2302.08618)
+[Access Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=7Iyg4ZoAAAAJ&citation_for_view=7Iyg4ZoAAAAJ:2osOgNQ5qMEC)
+
+[Download paper here from arXiv](https://arxiv.org/abs/2302.08618)
+
+
+
