@@ -17,7 +17,7 @@ Apart from my work on artificial intelligence, I also develop projects on web te
 News
 ======
 
-* :tada: **<ins>March 2023,</ins>**  I will be a subreviewer at [ESORICS 2023](https://esorics2023.org/)!
+* :tada: **<ins>March 2023,</ins>**  I will be a subreviewer at [European Symposium on Research in Computer Security (ESORICS) 2023](https://esorics2023.org/)!
 
 * :tada: **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
