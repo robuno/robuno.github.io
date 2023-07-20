@@ -17,6 +17,8 @@ Apart from my work on artificial intelligence, I also develop projects on web te
 News
 ======
 
+* :tada: **<ins>July 2023,</ins>**  I have graduated with valedictorian, earning a BS in Computer Engineering from Kadir Has University!
+
 * :tada: **<ins>June 2023,</ins>**  I will be a reviewer at [IEEE Transactions on Information Forensics and Security](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)!
 
 * :tada: **<ins>March 2023,</ins>**  I will be a subreviewer at [European Symposium on Research in Computer Security (ESORICS) 2023](https://esorics2023.org/)!
