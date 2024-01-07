@@ -11,7 +11,7 @@ citation: 'E. Erdogan, U. Teksen, M. S. Celiktenyildiz, A. Kupcu, ve A. E. Cicek
 
 [Access Scholar Page](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=7Iyg4ZoAAAAJ&citation_for_view=7Iyg4ZoAAAAJ:2osOgNQ5qMEC)
 
-[Download paper here from arXiv](https://arxiv.org/abs/2302.08618)
+[Download paper here from arXiv](https://arxiv.org/abs/2302.08618v1)
 
 
 
