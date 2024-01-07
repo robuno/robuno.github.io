@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am senior Computer Engineering student at Kadir Has University. I am highly interested in machine learning & deep learning and computer vision. Currently, I am working as an undergraduate researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
+I just graduated from Department of Computer Engineering, Kadir Has University! I am highly interested in machine learning & deep learning, specifically NLP and Private ML Systems. Currently, I am working as a researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
 
-Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com.tr/en). You can check my [CV](https://robuno.github.io/files/unat_academics_cv1_Colored(2).pdf) to view more detailed working&research experince. Feel free to contact me via mail or any social media channel! 
+Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](www.aselsan.com/en). You can check my [CV](https://robuno.github.io/files/Resume_Unat_Jan07.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
+
+:dart: <type-size-8>I'm currently open for new job opportunities! These days, I'm following the [Stanford CS224N NLP course](www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), refreshing my basic statistics and ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) by K.Murphy.</type-size-8>
 
 :heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
 
@@ -25,6 +27,6 @@ News
 
 * :tada: **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
-* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at Aselsan!
+* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at [Aselsan](www.aselsan.com/en)!
 
 * :tada: **<ins>December 2021,</ins>**  I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
