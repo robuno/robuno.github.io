@@ -1,6 +1,6 @@
 ---
 title: 'Title Generator with LLM & PEFT (LoRA)'
-date: 2023-04-12
+date: 2023-12-04
 permalink: https://github.com/robuno/Title-Generator-with-LLM-PEFT
 tags:
   - transformers

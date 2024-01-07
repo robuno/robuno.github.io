@@ -3,7 +3,7 @@ title: "Defense Mechanisms Against Training-Hijacking Attacks in Split Learning"
 collection: publications
 permalink: /publication/defense-mechanisms-against-training-hijacking
 excerpt: ''
-date: 2022-16-02
+date: 2023-02-16
 venue: 'arXiv (under review for a journal)'
 paperurl: ''
 citation: 'E. Erdogan, U. Teksen, M. S. Celiktenyildiz, A. Kupcu, ve A. E. Cicek, “Defense Mechanisms Against Training-Hijacking Attacks in Split Learning”. arXiv, 16 February 2023. [Online]. http://arxiv.org/abs/2302.08618v1'

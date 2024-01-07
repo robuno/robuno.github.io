@@ -1,7 +1,7 @@
 ---
 title: 'Instagram Follower & Following List Scraper'
 date: 2022-01-27
-permalink: https://github.com/robuno/instagram-follower-following-scraper
+link: https://github.com/robuno/instagram-follower-following-scraper
 tags:
   - python
   - selenium
