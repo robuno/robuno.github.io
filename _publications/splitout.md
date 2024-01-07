@@ -1,7 +1,7 @@
 ---
 title: "SplitOut: Out-of-the-Box Training-Hijacking Detection in Split Learning via Outlier Detection"
 collection: publications
-permalink: /publication/defense-mechanisms-against-training-hijacking
+permalink: /publication/splitout
 excerpt: ''
 date: 2023-12-11
 venue: 'arXiv (under review for a journal)'
