@@ -12,12 +12,14 @@ I just graduated from Department of Computer Engineering, Kadir Has University! 
 
 Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com/en). You can check my [CV](https://robuno.github.io/files/Resume_Unat_Jan07.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
 
-:dart: **I'm currently open for new job opportunities!** These days, I'm following [Stanford CS224N course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) and [CS25](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM), refreshing my basic statistics and ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy.
+:dart: **I'm currently open for new job opportunities!** These days, I'm following [Stanford CS224N course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) and [CS25](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM), refreshing my basic statistics and ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy. I'm getting ready to gather and share the notes I took while studying NLP, ML, and PPML. I hope you find it on my blog as soon as possible...
 
 :heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
 
 News
 ======
+
+* :tada: **<ins>July 2023,</ins>**  I'm preparing my ML & NLP & PPML notes!
 
 * :tada: **<ins>July 2023,</ins>**  I have graduated as the valedictorian, earning a BS in Computer Engineering from Kadir Has University!
 
