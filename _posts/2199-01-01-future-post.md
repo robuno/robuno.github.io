@@ -1,5 +1,5 @@
 ---
-title: 'Future Blog Post'
+title: 'Future Blog Post for Course Notes'
 date: 2199-01-01
 permalink: /posts/2012/08/blog-post-4/
 tags:
@@ -10,10 +10,10 @@ tags:
 
 I will share my lecture notes here soon! If you want to help to check my course notes, hit me up!
 
-![nb1](https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg)
+<!-- ![nb1](https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg) -->
 
-![nb2](https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg)
+<!-- ![nb2](https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg) -->
 
-<img align="left" width="20" height="20" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg">
+<img align="left" width="50" height="20" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg">
 
-<img align="right" width="20" height="20" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg">
+<img align="left" width="50" height="50" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg">
