@@ -8,4 +8,8 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+I will share my lecture notes here soon! If you want to help to check my course notes, hit me up!
+
+![nb1](https://robuno.github.io/files/nb1.png)
+
+![nb2](https://robuno.github.io/files/nb1.png)
