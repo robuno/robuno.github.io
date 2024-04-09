@@ -14,7 +14,7 @@ I will share my lecture notes here soon! If you want to help to check my course 
 
 <!-- ![nb2](https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg) -->
 
-<img align="left" width="400" height="400" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb1.jpg">
 
 
-<img align="left" width="400" height="400" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg">
+<img align="left" width="300" height="300" src="https://raw.githubusercontent.com/robuno/robuno.github.io/master/files/nb2.jpg">
