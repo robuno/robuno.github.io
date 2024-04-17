@@ -12,8 +12,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "About Me"
-    url: /bio/  
+  # - title: "About Me"
+  #   url: /bio/  
     
   - title: "CV"
     url: /../files/Unat_CV_Apr16.pdf

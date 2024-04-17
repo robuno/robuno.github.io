@@ -14,7 +14,7 @@ Apart from my work on artificial intelligence, I also develop projects on web te
 
 :dart: **I'm currently open for new job opportunities!** These days, I'm following [Stanford CS224N course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4) and [CS25](https://www.youtube.com/watch?v=P127jhj-8-Y&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM), refreshing my basic statistics and ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy. I'm getting ready to gather and share the notes I took while studying NLP, ML, and PPML. I hope you find it on my blog as soon as possible...
 
-:heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
+:heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail. More details about me can be found on my social media accounts and [about me](https://robuno.github.io/bio/) page.</ins>_
 
 News
 ======
