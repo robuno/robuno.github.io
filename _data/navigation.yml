@@ -12,11 +12,11 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  # - title: "About Me"
-    # url: /bio/  
+  - title: "About Me"
+    url: /bio/  
     
   - title: "CV"
-    url: /../files/Resume_Unat_Jan07.pdf
+    url: /../files/Unat_CV_Apr16.pdf
 
   # - title: "Archive"
     # url: /archive-layout-with-content/
