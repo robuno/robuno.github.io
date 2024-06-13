@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I just graduated from Department of Computer Engineering, Kadir Has University! I am highly interested in machine learning & deep learning, specifically NLP and Private ML Systems. Currently, I am working as a researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
+I just graduated from Department of Computer Engineering, Kadir Has University! I am highly interested in machine learning & deep learning, specifically NLP and private ML Systems. Currently, I am working as a researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
 
 Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com/en). You can check my [CV](https://robuno.github.io/files/Resume_Unat_Jan07.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
 
