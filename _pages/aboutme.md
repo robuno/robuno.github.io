@@ -19,7 +19,7 @@ Apart from my work on artificial intelligence, I also develop projects on web te
 News
 ======
 
-* :tada: **<ins>June 2024,</ins>**  SplitOut is accepted to CANS 2024 (Cambridge,UK)!
+* :tada: **<ins>June 2024,</ins>**  [SplitOut](https://arxiv.org/abs/2302.08618) is accepted to CANS 2024 (Cambridge,UK)!
 
 * :tada: **<ins>July 2023,</ins>**  I have graduated as the valedictorian, earning a BS in Computer Engineering from Kadir Has University!
 
