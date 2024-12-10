@@ -8,13 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I just graduated from Department of Computer Engineering, Kadir Has University! I am highly interested in machine learning & deep learning, specifically NLP and private ML Systems. Currently, I am working as a researcher at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML).
+I just graduated as valedictorian from Department of Computer Engineering, Kadir Has University! I am highly interested in machine learning & DL, specifically NLP and private ML Systems. Previously, I conducted research at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/) on Privacy-Preserving Machine Learning (PPML). 
 
-Apart from my work on artificial intelligence, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com/en). You can check my [CV](https://robuno.github.io/files/Resume_Unat_Jan07.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
+My Research Interests:
 
-:dart: **I'm currently open for new job opportunities!** These days, I'm following the [Stanford CS224N NLP course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), refreshing my basic statistics and ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy.
+- **Privacy and Security in Machine Learning:** Working on adversarial attacjs, discovering security threats such as backdoor and inference attacks, . Investigation of out-of-distribution data, explainability,
+- **Natural Language Processing:** Working on aligning and evaluating LLMs to create trustworthy and safe NLP tools. Besides, investigating explainability and reliability of LMs, training/finetuning of LMs, personalization and development of AI Agents.
+- **Intersection and Privacy and LMs:** Focusing on the intersection of privacy and language models (LMs), examining vulnerabilities, adversarial attacks, privacy-preserving techniques, and strategies to mitigate data privacy risks.
+- **NLP & ML for Social Good:** Applying ML & NLP tools and methods to address social issues and improve public well-being. Developing models and systems in the intersection of computational social sciences and machine learning.
 
-:heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail.</ins>_
+
+Apart from my work on machine learning, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com/en). Currently, I provide full stack web solutions and CMS integration services as a freelance developer. You can check my [CV](https://robuno.github.io/files/Resume_Unat.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
+:dart: These days, I'm trying to complete (I finished most of the parts, including transformers) [Stanford CS224N NLP course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), and [D. Jurafsky's Speech and Language Processing course](https://web.stanford.edu/~jurafsky/slp3/), refreshing ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy.
+
+:heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail: `unatteksen`at`gmail.com`.</ins>_
 
 News
 ======

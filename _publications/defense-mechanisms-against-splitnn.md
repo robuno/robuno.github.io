@@ -13,5 +13,7 @@ citation: 'E. Erdogan, U. Teksen, M. S. Celiktenyildiz, A. Kupcu, ve A. E. Cicek
 
 [Download paper here from arXiv](https://arxiv.org/abs/2302.08618v1)
 
+[Download paper here from arXiv](https://arxiv.org/abs/2302.08618v1)
+
 
 
