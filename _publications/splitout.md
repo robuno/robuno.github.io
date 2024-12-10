@@ -11,9 +11,10 @@ citation: 'E. Erdogan, U. Teksen, M. S. Celiktenyildiz, A. Kupcu, ve A. E. Cicek
 
 This research is under review for a conference.
 
-[Access Scholar Page](https://arxiv.org/abs/2302.08618)
 
 [Download paper here from arXiv](https://arxiv.org/abs/2302.08618)
+
+[CANS Presentation](https://github.com/robuno/robuno.github.io/blob/4e7a0321f685c0e1827c9f4fe27321d2f30c1538/files/SplitOut-CANS24_FinalVersion.pdf)
 
 
 
