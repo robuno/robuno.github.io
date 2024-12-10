@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Unat Tekşen"
-  avatar           : "uno_profile.jpg"
-  bio              : "Senior Computer Engineering Student @Kadir Has University & Undergraduate Researcher @Koç University"
+  avatar           : "pp_grad_uni.png"
+  bio              : "Computer Engineering Alumni @Kadir Has University & Research Assistant @Koç University"
   location         : "Istanbul, Turkey"
   employer         : 
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "unatteksen"
-  orcid            : 
+  orcid            : "https://orcid.org/0009-0009-6101-2981"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
