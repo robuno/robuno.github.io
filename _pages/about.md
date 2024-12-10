@@ -19,7 +19,7 @@ My Research Interests:
 
 
 Apart from my work on machine learning, I also develop projects on web technologies. I was intern at [ASELSAN](https://www.aselsan.com/en). Currently, I provide full stack web solutions and CMS integration services as a freelance developer. You can check my [CV](https://robuno.github.io/files/Resume_Unat.pdf) to view more detailed working & research experince. Feel free to contact me via mail or any social media channel! 
-:dart: These days, I'm trying to complete (I finished most of the parts, including transformers) [Stanford CS224N NLP course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), and [D. Jurafsky's Speech and Language Processing course](https://web.stanford.edu/~jurafsky/slp3/), refreshing ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy.
+:dart: **I am currently seeking graduate positions & research assistant roles with scholarship!** These days, I'm trying to complete (I finished most of the parts, including transformers) [Stanford CS224N NLP course](https://www.youtube.com/watch?v=PLryWeHPcBs&list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4), and [D. Jurafsky's Speech and Language Processing course](https://web.stanford.edu/~jurafsky/slp3/), refreshing ML knowledge with [Probabilistic Machine Learning](https://probml.github.io/pml-book/book1.html) book by K.Murphy.
 
 :heavy_exclamation_mark:_<ins>This blog is still in development and I am trying to add content in my free time. Therefore, you may see some blank/uncompleted pages or content. In any cases, you can contact me via e-mail: `unatteksen`at`gmail.com`.</ins>_
 
