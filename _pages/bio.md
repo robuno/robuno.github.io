@@ -13,3 +13,5 @@ I've been playing guitar for 12 years. I have few covers on YouTube but But thes
 I love following and commenting on sports competitions. I have tried many sports since my childhood, from taekwondo to gymnastics and basketball. In 2018, I was among the founders of FK, which produces Turkey's most listened to sports podcasts. During my high school years, some of my articles on football and F1 were published on the most followed sports blogs in Turkey. 
 
 Philosophy might be the field I like to study the most and like to associate with literature. In my first years of university, I used to share blog posts on my previous blog in which I examined the reflection of the works of Sartre, Kieerkegard and a few more philosophers on modern literature.
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="882a5c7f-9c29-49f7-bcdd-9d8848d6d30a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
