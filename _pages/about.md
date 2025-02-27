@@ -34,6 +34,6 @@ News
 
 * :tada: **<ins>June 2022,</ins>**  I’m starting a new position as an undergraduate research intern at [Cryptography, Security, and Privacy Research Group](https://crypto.ku.edu.tr/), Koç University!
 
-* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at [Aselsan](www.aselsan.com/en)!
+* :tada: **<ins>June 2022,</ins>**  I’m starting a new position as Software Engineering Intern at [Aselsan](https://www.aselsan.com/en)!
 
 * :tada: **<ins>December 2021,</ins>**  I received TÜBİTAK STAR scholarship to work on [Scalable Manifold Learning](http://sca-ml.khas.edu.tr/) project as an undergraduate research assistant.
