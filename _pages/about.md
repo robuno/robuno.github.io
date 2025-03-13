@@ -12,7 +12,7 @@ I just graduated as valedictorian from Department of Computer Engineering, Kadir
 
 My Research Interests:
 
-- **Privacy and Security in Machine Learning:** Working on adversarial attacjs, discovering security threats such as backdoor and,inference attacks, investigation of out-of-distribution data, explainability. <span style="color:darkgray">I have [published paper](https://arxiv.org/abs/2302.08618) in this field.</span>
+- **Privacy and Security in Machine Learning:** Working on adversarial attacks, discovering security threats such as backdoor and,inference attacks, investigation of out-of-distribution data, explainability. <span style="color:darkgray">I have [published paper](https://arxiv.org/abs/2302.08618) in this field.</span>
 - **Natural Language Processing:** Working on aligning and evaluating LLMs to create trustworthy and safe NLP tools. Besides, investigating explainability and reliability of LMs, training/finetuning of LMs, personalization and development of AI Agents.
 - **Intersection and Privacy and LMs:** Focusing on the intersection of privacy and language models (LMs), examining vulnerabilities, adversarial attacks, privacy-preserving techniques, and strategies to mitigate data privacy risks.
 - **NLP & ML for Social Good:** Applying ML & NLP tools and methods to address social issues and improve public well-being. Developing models and systems in the intersection of computational social sciences and machine learning.
