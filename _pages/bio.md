@@ -16,5 +16,7 @@ Philosophy might be the field I like to study the most and like to associate wit
 
 <a data-iframe-width="850" href="https://clustrmaps.com/site/1c60n"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE&cl=ffffff" /></a>
 
+<a href='https://clustrmaps.com/site/1c60n'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=750&t=tt&d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE&co=923151&ct=000000'/></a>
+
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="882a5c7f-9c29-49f7-bcdd-9d8848d6d30a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
