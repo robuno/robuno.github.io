@@ -14,8 +14,8 @@ I love following and commenting on sports competitions. I have tried many sports
 
 Philosophy might be the field I like to study the most and like to associate with literature. In my first years of university, I used to share blog posts on my previous blog in which I examined the reflection of the works of Sartre, Kieerkegard and a few more philosophers on modern literature.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE&cl=ffffff&w=a"></script>
+<a data-iframe-width="550" href="https://clustrmaps.com/site/1c60n"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE&cl=ffffff" /></a>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE"></script>
+<script data-iframe-width="550" type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE"></script>
 
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="882a5c7f-9c29-49f7-bcdd-9d8848d6d30a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
