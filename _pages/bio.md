@@ -14,4 +14,8 @@ I love following and commenting on sports competitions. I have tried many sports
 
 Philosophy might be the field I like to study the most and like to associate with literature. In my first years of university, I used to share blog posts on my previous blog in which I examined the reflection of the works of Sartre, Kieerkegard and a few more philosophers on modern literature.
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE&cl=ffffff&w=a"></script>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=ZoqNrd3CQxjao6E99oFG_Msq_W2GYT62xR8D_NQO1bE"></script>
+
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="882a5c7f-9c29-49f7-bcdd-9d8848d6d30a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
